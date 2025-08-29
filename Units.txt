@@ -1,0 +1,38 @@
+Length Units:
+meter (meters, m)
+kilometer (kilometers, km)
+centimeter (centimeters, cm)
+millimeter (millimeters, mm)
+mile (miles)
+yard (yards)
+foot (feet)
+inch (inches)
+
+Mass Units:
+kilogram (kilograms, kg)
+gram (grams, g)
+milligram (milligrams, mg)
+pound (pounds, lb)
+ounce (ounces, oz)
+ton (tons)
+
+Volume Units:
+liter (liters, l)
+milliliter (milliliters, ml)
+gallon (gallons)
+quart (quarts)
+pint (pints)
+cup (cups)
+fluid ounce (fluid ounces, fl oz)
+
+Time Units:
+second (seconds, s)
+minute (minutes, min)
+hour (hours, h)
+day (days)
+week (weeks)
+
+Temperature Units:
+celsius
+fahrenheit
+kelvin
